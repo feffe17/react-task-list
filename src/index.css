@@ -12,3 +12,11 @@ header {
 h1 {
   padding: 1rem;
 }
+
+main {
+  margin-top: 1rem;
+}
+
+.intro {
+  padding: 1rem;
+}
